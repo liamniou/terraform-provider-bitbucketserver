@@ -1,6 +1,6 @@
-This repository is a fork of [gavinbunney/terraform-provider-bitbucketserver](https://github.com/gavinbunney/terraform-provider-bitbucketserver) with resources that allows managing the settings of the Workzone plugin and a few more additional resources.
-
 # Bitbucket Server Terraform Provider
+
+This repository is a fork of [liamnou/terraform-provider-bitbucketserver](https://github.com/liamnou/terraform-provider-bitbucketserver) so that Klarna would be able to independently contribute to this provider and publish the provider separately without conflict with the upstream.
 
 [![user guide](https://img.shields.io/badge/-user%20guide-blue)](https://registry.terraform.io/providers/liamniou/bitbucketserver/latest)
 
